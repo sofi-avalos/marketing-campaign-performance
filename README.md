@@ -20,7 +20,10 @@ The dataset contains information about **2,240 customers**, including:
 * Marketing campaign responses
 * Customer complaints
 
-The dataset was originally sourced from Kaggle.
+The dataset was originally sourced from Kaggle:
+* Marketing Campaign by Rodolfo Saldanha
+* https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign?resource=download
+
 
 ## Tools & Technologies
 
